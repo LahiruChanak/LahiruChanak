@@ -24,7 +24,7 @@
 # 📊 GitHub Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LahiruChanak&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  &emsp;
+  <br /><br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LahiruChanak&theme=dark&hide_border=false" alt="GitHub Streak" />
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruChanak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
