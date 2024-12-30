@@ -7,7 +7,6 @@
     <img src="https://komarev.com/ghpvc/?username=LahiruChanak&color=2F81F7&style=for-the-badge&label=PROFILE+VIEWS&abbreviated=true" alt="Profile Views">
   </a>
 </p>
-<br />
 
 # 💫 About Me:
 🔭 I’m currently working on<br>I am building a website with Sri Lankan cuisine recipes using only HTML and CSS to showcase my front-end skills and explore a mini-project in Java socket programming.<br><br>👯 I’m looking to collaborate on<br>Web development projects, especially in frontend or backend development. I’d love to connect with others who are passionate about building functional, user-focused applications.<br><br>🤝 I’m looking for help with<br>I am improving my skills in advanced Hibernate ORM concepts and learning best practices in Java networking.<br><br>🌱 I’m currently learning<br>Advanced Hibernate mapping techniques for Java ORM.<br>Java socket programming to enhance my knowledge of network communication.<br>Responsive design principles through my HTML & CSS recipes project.<br><br>💬 Ask me about<br>Java development, my journey into software engineering, or how to get started with basic networking concepts!<br><br>⚡ Fun fact<br>I’m always on the lookout for creative project names and believe that a clever name makes every project more memorable!
