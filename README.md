@@ -2,8 +2,11 @@
 <h1 align="center">Hi 👋, I'm Lahiru Kodikara</h1>
 <h3 align="center">Passionate Software Engineer | Exploring the Boundless World of Technology</h3>
 <br />
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=LahiruChanak&icon=0&color=8" alt="LahiruChanak" /> </p>
-
+<p align="center">
+  <a href="https://github.com/LahiruChanak">
+    <img src="https://komarev.com/ghpvc/?username=LahiruChanak&color=2F81F7&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views">
+  </a>
+</p>
 <br />
 
 # 💫 About Me:
