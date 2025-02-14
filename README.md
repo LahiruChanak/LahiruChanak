@@ -28,7 +28,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LahiruChanak&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <br /><br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LahiruChanak&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=LahiruChanak&theme=dark&border_radius=5&mode=weekly&card_width=500&card_height=200" alt="GitHub Streak" />
   <br /><br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LahiruChanak&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
